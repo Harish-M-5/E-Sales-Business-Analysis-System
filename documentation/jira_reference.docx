@@ -1,0 +1,23 @@
+JIRA USER STORIES & TASKS
+
+Epic: Sales Performance Analysis System
+
+User Story 1:
+As a Business Owner, I want to view total sales by region so that I can identify top markets.
+
+User Story 2:
+As a Sales Manager, I want to view product-wise sales so that I can improve low selling products.
+
+User Story 3:
+As a Data Analyst, I want to analyze low-performing regions so that I can suggest improvements.
+
+User Story 4:
+As a Manager, I want visual dashboards so that I can easily understand sales data.
+
+Tasks:
+- Collect sales data
+- Clean and validate data
+- Perform analysis
+- Build UI
+- Create Power BI dashboard
+- Test system

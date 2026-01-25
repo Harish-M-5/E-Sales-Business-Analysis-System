@@ -1,0 +1,36 @@
+SALES PERFORMANCE ANALYSIS AND SOLUTION SYSTEM
+
+1. Abstract  
+This project focuses on analyzing sales data to identify performance issues and provide business solutions using modern data analytics tools.
+
+2. Introduction  
+Sales performance plays a vital role in business growth. This project helps organizations make better decisions using sales data.
+
+3. Objectives  
+- Analyze sales data  
+- Identify low performing areas  
+- Provide solutions  
+- Visualize data  
+
+4. Tools Used  
+- Python  
+- Excel  
+- Power BI  
+- React  
+- VS Code  
+
+5. Methodology  
+Agile methodology with iterative development.
+
+6. Results  
+- Identified low performing regions  
+- Found best selling products  
+- Generated business solutions  
+
+7. Conclusion  
+The system successfully helps in analyzing sales data and improving business decisions.
+
+8. Future Scope  
+- Real-time data integration  
+- AI based prediction  
+- Cloud deployment

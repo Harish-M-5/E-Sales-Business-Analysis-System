@@ -1,0 +1,5 @@
+Date,Region,Product,Units Sold,Revenue,Returns
+1/1/2026,Chennai,Laptop,10,500000,1
+1/1/2026,Mumbai,Mobile,15,300000,0
+1/1/2026,Delhi,Headphone,25,75000,2
+...,...,...,...,...,...

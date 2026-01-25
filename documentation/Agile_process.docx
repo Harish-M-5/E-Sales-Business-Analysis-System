@@ -1,0 +1,35 @@
+AGILE PROCESS DOCUMENT
+
+Methodology: Agile Scrum
+
+Sprint Duration: 2 Weeks
+
+Sprint 1:
+- Requirement Gathering
+- Data Collection
+- BRD & SRS Preparation
+
+Sprint 2:
+- Data Analysis
+- Python Implementation
+- Initial UI Setup
+
+Sprint 3:
+- Dashboard Creation
+- Power BI Integration
+- UI Finalization
+
+Sprint 4:
+- Testing
+- Bug Fixing
+- Final Deployment
+
+Daily Scrum:
+- What I did yesterday
+- What I will do today
+- Any blockers
+
+Benefits:
+- Faster delivery
+- Flexibility
+- Continuous improvement

@@ -1,0 +1,42 @@
+SOFTWARE REQUIREMENT SPECIFICATION (SRS)
+
+1. Introduction  
+This document defines the functional and non-functional requirements of the Sales Performance Analysis System.
+
+2. Functional Requirements  
+- Upload sales data from Excel  
+- Analyze sales by region and product  
+- Identify low-performing regions  
+- Display results in dashboard  
+- Export reports  
+- Provide business recommendations  
+
+3. Non-Functional Requirements  
+- Easy to use UI  
+- Fast processing  
+- Secure data handling  
+- Compatible with Windows  
+- Scalable design  
+
+4. System Architecture  
+- Frontend: React  
+- Backend: Python  
+- Data Source: Excel  
+- Dashboard: Power BI  
+
+5. Hardware Requirements  
+- Minimum 4GB RAM  
+- Dual Core Processor  
+- 10GB Free Storage  
+
+6. Software Requirements  
+- VS Code  
+- Python 3.x  
+- Power BI  
+- Node.js  
+- MS Excel  
+
+7. Constraints  
+- Limited dataset  
+- Standalone system  
+- No real-time data  
