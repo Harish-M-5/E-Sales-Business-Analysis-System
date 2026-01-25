@@ -63,8 +63,29 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 
 ### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### `npm run build` fails to minify
+## `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+<img width="1920" height="1080" alt="Screenshot 2026-01-25 212412" src="https://github.com/user-attachments/assets/dd372fee-4ec1-49b4-9957-25edf65da511" />
+
+<img width="1920" height="1080" alt="Screenshot 2026-01-25 212743" src="https://github.com/user-attachments/assets/b56d791a-3be4-4d7b-9440-c50a3b7e5b45" />
+
+
+
+https://github.com/user-attachments/assets/e85b9f4e-e326-4e7e-891f-dbf27aecc305
+
+
+
+
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+
+<img width="1920" height="1080" alt="Screenshot 2026-01-25 214028" src="https://github.com/user-attachments/assets/a54dc1af-181b-4789-98a9-540ec8adfd1e" />
+
+<img width="1920" height="1080" alt="Screenshot 2026-01-25 214100" src="https://github.com/user-attachments/assets/0cddba6d-ada8-4a3e-932b-6bfaa09bc67a" />
+
