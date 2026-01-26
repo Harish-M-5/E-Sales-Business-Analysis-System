@@ -57,7 +57,7 @@ A Business Analyst (BA) is a professional who identifies business problems and o
 
 ## Project Folder Structure
 
-sales-business-analysis/
+`` sales-business-analysis/
 │
 ├── ui/                      → React Frontend
 │   ├── src/
@@ -81,7 +81,7 @@ sales-business-analysis/
 │   └── Final_Project_Report.docx
 │
 ├── README.md
-└── requirements.txt
+└── requirements.txt``
 
 ---
 
@@ -103,7 +103,8 @@ Visualization     | Power BI, Matplotlib        |
 ---
 
 ## Modern Architecture
-Excel Data → Python Analysis → Power BI Dashboard ↓ React UI ↓ Business Solutions & Reports
+
+`Excel Data → Python Analysis → Power BI Dashboard ↓ React UI ↓ Business Solutions & Reports`
 
 ---
 
@@ -179,8 +180,6 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
-
 
 ### Advanced Configuration
 
@@ -214,15 +213,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 
 ### The React UI displays:
-- Total revenue
-- Units sold
-- Product-wise performance
-- Region-wise performance
-- Simple charts and tables
-
-Purpose:
-- Make insights user-friendly
-- Easy access for non-technical users
+- The user interface of this project is developed using React.js, focusing on a clean, responsive, and user-friendly design. The UI is structured with multiple pages such as Home, Dashboard, Documentation, Report, New Business Idea, and Contact, allowing smooth navigation across the application.
+- The Home page is designed like an e-commerce platform, showcasing products such as mobiles, laptops, and headphones with images, prices, and action buttons, giving a real-world shopping experience feel.
+The Dashboard page displays interactive charts and visual components that represent sales performance, including revenue trends, product-wise analysis, regional sales, and return rates. These visualizations help users quickly understand business performance and identify problem areas.
+- The Documentation and Report pages provide downloadable and readable project documents like BRD, SRS, Business Solutions, and Final Reports directly within the UI, making the system feel complete and professional.
+The overall UI is styled with modern colors, fonts, and layouts to ensure a visually appealing experience while keeping business clarity in focus. The React-based architecture ensures fast rendering, component reusability, and scalability for future enhancements.
 
 ---
 
@@ -460,7 +455,6 @@ Sprints:
 
 
 
-<img width="1920" height="1080" alt="Screenshot 2026-01-25 212412" src="https://github.com/user-attachments/assets/dd372fee-4ec1-49b4-9957-25edf65da511" />
 
 <img width="1920" height="1080" alt="Screenshot 2026-01-25 212743" src="https://github.com/user-attachments/assets/b56d791a-3be4-4d7b-9440-c50a3b7e5b45" />
 
@@ -473,11 +467,10 @@ Sprints:
 ## demo video
 
 
-https://github.com/user-attachments/assets/e85b9f4e-e326-4e7e-891f-dbf27aecc305
-
 
 https://github.com/user-attachments/assets/3e444f1c-8eb3-477f-a4ad-7cc2ca8eebba
 
+---
 
 
 ## Final Report
