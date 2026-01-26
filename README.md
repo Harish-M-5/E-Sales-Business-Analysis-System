@@ -64,13 +64,13 @@ A Business Analyst (BA) is a professional who identifies business problems and o
 │   ├── src/
 │   └── public/
 │
-├── backend/                 → Python / Node Backend
-│   └── analysis.py
+├──analysis
+│   └──sales_analysis.py
 │
 ├── data/                    → Input Data
 │   └── sales_data.xlsx
 │
-├── dashboard/               → Power BI / Reports
+├── dashboard/               → Power BI 
 │   └── sales_dashboard.pbix
 │
 ├── documentation/         
@@ -82,7 +82,6 @@ A Business Analyst (BA) is a professional who identifies business problems and o
 │   └── Final_Project_Report.docx
 │
 ├── README.md
-└── requirements.txt
 
 ```
 
@@ -97,9 +96,10 @@ Backend           | Python                      |
 Data Source       | MS Excel                    |
 Dashboard         | Power BI                    |
 IDE               | VS Code                     |
-Project Mgmt      | Jira, Agile Scrum           |
+Project Mgmt      | Jira, Agile            |
 Documentation     | MS Word                     |
-Visualization     | Power BI, Matplotlib        |
+Visualization     | Power BI       
+       
 
 ---
 
@@ -409,8 +409,7 @@ Sprints:
 
 - Business Analyst roles
 - Data Analyst roles
-- MBA projects
-- B.Tech final year projects
+- College Students projects
 - Resume showcase
 
 ---
@@ -437,6 +436,8 @@ Sprints:
 
 ## output 
 
+## UI ouptut
+
 <img width="1920" height="1080" alt="Screenshot 2026-01-26 201252" src="https://github.com/user-attachments/assets/f78cacd7-5d8d-452e-8581-7fa5ff164aa0" />
 
 <img width="1920" height="1080" alt="Screenshot 2026-01-26 201307" src="https://github.com/user-attachments/assets/0826e925-e728-4683-b251-3d3743ab9a3f" />
@@ -455,11 +456,15 @@ Sprints:
 <img width="1920" height="1080" alt="Screenshot 2026-01-26 201430" src="https://github.com/user-attachments/assets/32a3ac7a-7799-4d62-be21-0c4d0ecd885e" />
 
 
-
+## Jira
 
 <img width="1920" height="1080" alt="Screenshot 2026-01-25 212743" src="https://github.com/user-attachments/assets/b56d791a-3be4-4d7b-9440-c50a3b7e5b45" />
 
+## Datas
+
 <img width="1920" height="1080" alt="Screenshot 2026-01-25 214028" src="https://github.com/user-attachments/assets/a54dc1af-181b-4789-98a9-540ec8adfd1e" />
+
+## Power BI Use
 
 <img width="1920" height="1080" alt="Screenshot 2026-01-25 214100" src="https://github.com/user-attachments/assets/0cddba6d-ada8-4a3e-932b-6bfaa09bc67a" />
 
