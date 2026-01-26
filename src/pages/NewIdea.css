@@ -1,0 +1,40 @@
+.idea-container {
+  padding: 20px;
+  font-family: "Segoe UI", sans-serif;
+}
+
+.idea-title {
+  text-align: center;
+  color: #00ff99;
+  margin-bottom: 30px;
+  font-size: 28px;
+}
+
+.idea-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  gap: 25px;
+}
+
+.idea-card {
+  background: #1e1e2f;
+  padding: 20px;
+  border-radius: 14px;
+  box-shadow: 0 0 12px #00ff99;
+  text-align: center;
+  color: white;
+  transition: transform 0.3s;
+}
+
+.idea-card:hover {
+  transform: scale(1.05);
+}
+
+.idea-card img {
+  width: 80px;
+  margin-bottom: 15px;
+}
+
+.idea-card h3 {
+  color: #00ccff;
+}

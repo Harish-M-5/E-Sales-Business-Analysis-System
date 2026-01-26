@@ -1,0 +1,60 @@
+.dashboard-container {
+  padding: 20px;
+  background: #0f172a; /* Dark background */
+  min-height: 100vh;
+  color: white;
+  font-family: "Segoe UI", sans-serif;
+}
+
+.dashboard-title {
+  text-align: center;
+  color: #00ff99;
+  font-size: 32px;
+  margin-bottom: 20px;
+}
+
+.chart-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 20px;
+}
+
+.chart-card {
+  background: #1e293b;
+  padding: 15px;
+  border-radius: 12px;
+  box-shadow: 0 0 15px rgba(0, 255, 153, 0.4);
+  transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.chart-card:hover {
+  transform: scale(1.03);
+  box-shadow: 0 0 20px rgba(0, 255, 153, 0.6);
+}
+
+.chart-card h3 {
+  text-align: center;
+  color: #22c55e;
+  margin-bottom: 10px;
+  font-size: 18px;
+}
+
+/* Tooltip styling (Recharts default tooltip) */
+.recharts-tooltip-wrapper {
+  font-size: 14px !important;
+  background-color: #111827 !important;
+  color: #00ff99 !important;
+  border-radius: 8px !important;
+  padding: 8px !important;
+}
+
+/* Responsive for mobile */
+@media (max-width: 768px) {
+  .chart-card {
+    padding: 10px;
+  }
+
+  .dashboard-title {
+    font-size: 28px;
+  }
+}

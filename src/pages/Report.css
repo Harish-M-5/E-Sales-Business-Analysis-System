@@ -1,0 +1,40 @@
+.report-container {
+  padding: 25px;
+  background: #0f172a;
+  color: white;
+  min-height: 100vh;
+  font-family: "Segoe UI", sans-serif;
+}
+
+.report-title {
+  text-align: center;
+  color: #00ff99;
+  margin-bottom: 20px;
+  font-size: 30px;
+}
+
+.download-btn {
+  display: inline-block;
+  margin: 15px 0;
+  padding: 8px 15px;
+  background: #22c55e;
+  color: black;
+  font-weight: bold;
+  border-radius: 8px;
+  text-decoration: none;
+  transition: 0.3s;
+}
+
+.download-btn:hover {
+  opacity: 0.8;
+}
+
+.report-content h2 {
+  color: #38bdf8;
+  margin-top: 20px;
+}
+
+.report-content p, .report-content ul {
+  margin-left: 15px;
+  line-height: 1.6;
+}

@@ -1,0 +1,48 @@
+.doc-container {
+  padding: 25px;
+  background: #0f172a;
+  color: white;
+  min-height: 100vh;
+  font-family: "Segoe UI", sans-serif;
+}
+
+.doc-title {
+  text-align: center;
+  color: #00ff99;
+  margin-bottom: 30px;
+  font-size: 30px;
+}
+
+.doc-section {
+  background: #1e293b;
+  margin: 20px 0;
+  padding: 20px;
+  border-radius: 12px;
+  box-shadow: 0 0 12px #00ff99;
+}
+
+.doc-section h2 {
+  color: #38bdf8;
+  margin-bottom: 10px;
+}
+
+.doc-section ul {
+  margin-left: 20px;
+  line-height: 1.6;
+}
+
+.download-btn {
+  display: inline-block;
+  margin: 10px 0 15px 0;
+  padding: 8px 15px;
+  background: #22c55e;
+  color: black;
+  font-weight: bold;
+  border-radius: 8px;
+  text-decoration: none;
+  transition: 0.3s;
+}
+
+.download-btn:hover {
+  opacity: 0.8;
+}
