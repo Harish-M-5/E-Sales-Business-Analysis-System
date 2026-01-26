@@ -57,8 +57,8 @@ A Business Analyst (BA) is a professional who identifies business problems and o
 
 ## Project Folder Structure
 
-```text 
- sales-business-analysis/
+
+ ```sales-business-analysis/
 │
 ├── ui/                      → React Frontend
 │   ├── src/
@@ -82,8 +82,9 @@ A Business Analyst (BA) is a professional who identifies business problems and o
 │   └── Final_Project_Report.docx
 │
 ├── README.md
-└── requirements.txt```
+└── requirements.txt
 
+```
 
 ---
 
@@ -104,7 +105,7 @@ Visualization     | Power BI, Matplotlib        |
 
 ## Modern Architecture
 
-`Excel Data → Python Analysis → Power BI Dashboard ↓ React UI ↓ Business Solutions & Reports`
+```Excel Data → Python Analysis → Power BI Dashboard ↓ React UI ↓ Business Solutions & Reports```
 
 ---
 
@@ -119,7 +120,7 @@ This project focuses on analyzing sales performance data to:
 ---
 
 ## Git Clone Setup
-https://github.com/harish-m-5/sales-business-analysis.git cd sales-business-analysis
+```https://github.com/harish-m-5/sales-business-analysis.git cd sales-business-analysis```
 
 ---
 
@@ -150,7 +151,7 @@ In the project directory, you can run:
 ### `npm start`
 
 Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Open `[http://localhost:3000]`(http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
