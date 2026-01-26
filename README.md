@@ -475,6 +475,11 @@ Sprints:
 
 https://github.com/user-attachments/assets/e85b9f4e-e326-4e7e-891f-dbf27aecc305
 
+
+https://github.com/user-attachments/assets/3e444f1c-8eb3-477f-a4ad-7cc2ca8eebba
+
+
+
 ## Final Report
 
 A detailed final report is included in the documentation folder covering all aspects of the project.
