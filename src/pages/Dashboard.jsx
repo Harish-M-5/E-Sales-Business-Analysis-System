@@ -35,7 +35,7 @@ export default function Dashboard() {
     <div className="dashboard-container">
       <h1 className="dashboard-title">📊 Sales Dashboard</h1>
       <div className="chart-grid">
-        {/* 1: Revenue Trend */}
+        {/*  Revenue Trend */}
         <div className="chart-card">
           <h3>Revenue Trend</h3>
           <ResponsiveContainer width="100%" height={250}>
@@ -49,7 +49,7 @@ export default function Dashboard() {
           </ResponsiveContainer>
         </div>
 
-        {/* 2: Units Sold */}
+        {/*  Units Sold */}
         <div className="chart-card">
           <h3>Units Sold</h3>
           <ResponsiveContainer width="100%" height={250}>
@@ -63,7 +63,7 @@ export default function Dashboard() {
           </ResponsiveContainer>
         </div>
 
-        {/* 3: Revenue by Region */}
+        {/*  Revenue by Region */}
         <div className="chart-card">
           <h3>Revenue by Region</h3>
           <ResponsiveContainer width="100%" height={250}>
@@ -79,7 +79,7 @@ export default function Dashboard() {
           </ResponsiveContainer>
         </div>
 
-        {/* 4: Area Chart */}
+        {/*  Area Chart */}
         <div className="chart-card">
           <h3>Cumulative Revenue</h3>
           <ResponsiveContainer width="100%" height={250}>
@@ -93,7 +93,7 @@ export default function Dashboard() {
           </ResponsiveContainer>
         </div>
 
-        {/* 5: Returns */}
+        {/*  Returns */}
         <div className="chart-card">
           <h3>Returns by Product</h3>
           <ResponsiveContainer width="100%" height={250}>
@@ -107,7 +107,7 @@ export default function Dashboard() {
           </ResponsiveContainer>
         </div>
 
-        {/* 6: Units Trend */}
+        {/*  Units Trend */}
         <div className="chart-card">
           <h3>Units Trend</h3>
           <ResponsiveContainer width="100%" height={250}>
@@ -121,7 +121,7 @@ export default function Dashboard() {
           </ResponsiveContainer>
         </div>
 
-        {/* 7: Returns Percentage */}
+        {/*  Returns Percentage */}
         <div className="chart-card">
           <h3>Returns Percentage</h3>
           <ResponsiveContainer width="100%" height={250}>
@@ -140,3 +140,4 @@ export default function Dashboard() {
     </div>
   );
 }
+
