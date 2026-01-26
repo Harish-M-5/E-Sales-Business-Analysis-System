@@ -441,6 +441,25 @@ Sprints:
 
 ## output 
 
+<img width="1920" height="1080" alt="Screenshot 2026-01-26 201252" src="https://github.com/user-attachments/assets/f78cacd7-5d8d-452e-8581-7fa5ff164aa0" />
+
+<img width="1920" height="1080" alt="Screenshot 2026-01-26 201307" src="https://github.com/user-attachments/assets/0826e925-e728-4683-b251-3d3743ab9a3f" />
+
+<img width="1920" height="1080" alt="Screenshot 2026-01-26 201325" src="https://github.com/user-attachments/assets/b1042aaa-ac08-4472-9e9e-d5af7571e15d" />
+
+<img width="1920" height="1080" alt="Screenshot 2026-01-26 201340" src="https://github.com/user-attachments/assets/1e64344c-bf97-45bc-9880-61ccb5a5a816" />
+
+
+<img width="1920" height="1080" alt="Screenshot 2026-01-26 201352" src="https://github.com/user-attachments/assets/8f15a2db-4f82-4d25-9f48-2dcf70ed6f1b" />
+
+<img width="1920" height="1080" alt="Screenshot 2026-01-26 201414" src="https://github.com/user-attachments/assets/78aa616e-e43c-411f-bbd1-972ff73bf384" />
+
+<img width="1920" height="1080" alt="Screenshot 2026-01-26 201422" src="https://github.com/user-attachments/assets/d695c408-842c-4ef6-a77d-8e1e498e7b71" />
+
+<img width="1920" height="1080" alt="Screenshot 2026-01-26 201430" src="https://github.com/user-attachments/assets/32a3ac7a-7799-4d62-be21-0c4d0ecd885e" />
+
+
+
 <img width="1920" height="1080" alt="Screenshot 2026-01-25 212412" src="https://github.com/user-attachments/assets/dd372fee-4ec1-49b4-9957-25edf65da511" />
 
 <img width="1920" height="1080" alt="Screenshot 2026-01-25 212743" src="https://github.com/user-attachments/assets/b56d791a-3be4-4d7b-9440-c50a3b7e5b45" />
