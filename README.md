@@ -57,7 +57,8 @@ A Business Analyst (BA) is a professional who identifies business problems and o
 
 ## Project Folder Structure
 
-`` sales-business-analysis/
+```text 
+ sales-business-analysis/
 │
 ├── ui/                      → React Frontend
 │   ├── src/
@@ -81,7 +82,7 @@ A Business Analyst (BA) is a professional who identifies business problems and o
 │   └── Final_Project_Report.docx
 │
 ├── README.md
-└── requirements.txt``
+└── requirements.txt
 
 ---
 
