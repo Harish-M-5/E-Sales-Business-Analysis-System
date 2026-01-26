@@ -1,6 +1,6 @@
 .dashboard-container {
   padding: 20px;
-  background: #0f172a; /* Dark background */
+  background: #0f172a; 
   min-height: 100vh;
   color: white;
   font-family: "Segoe UI", sans-serif;
@@ -39,7 +39,6 @@
   font-size: 18px;
 }
 
-/* Tooltip styling (Recharts default tooltip) */
 .recharts-tooltip-wrapper {
   font-size: 14px !important;
   background-color: #111827 !important;
@@ -58,3 +57,4 @@
     font-size: 28px;
   }
 }
+
