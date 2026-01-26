@@ -1,10 +1,10 @@
-# Sales Performance Analysis and Business Solution System
+# E-Sales Performance Analysis and Business Solution System
 
 ## Overview
 
-The Sales Performance Analysis and Business Solution System is a complete business analyst project designed to analyze sales data, identify business problems, and provide data-driven solutions. This project integrates Excel for data storage, Python for analysis, Power BI for visualization, and React for UI, following modern industry standards.
-
-This project demonstrates how a Business Analyst bridges the gap between business needs and technical implementation using analytics, visualization, and documentation.
+-The E-Sales Performance Analysis and Business Solution System is a complete business analyst project designed to analyze sales data, identify business problems, and provide data-driven solutions.
+-This project integrates Excel for data storage, Python for analysis, Power BI for visualization, and React for UI, following modern industry standards.
+-This project demonstrates how a Business Analyst bridges the gap between business needs and technical implementation using analytics, visualization, and documentation.
 
 ---
 
@@ -26,6 +26,9 @@ This project demonstrates how a Business Analyst bridges the gap between busines
 
 A Business Analyst (BA) is a professional who identifies business problems and opportunities, analyzes data, and proposes solutions that help organizations improve processes, increase revenue, and reduce costs.
 
+![17694480120383362117953950761705](https://github.com/user-attachments/assets/51067f4a-8dc2-41ad-9530-f4057daa908a)
+
+
 ### Role of Business Analyst in this Project:
 - Gather business requirements
 - Analyze sales data
@@ -39,11 +42,12 @@ A Business Analyst (BA) is a professional who identifies business problems and o
 ## Installation and Setup
 
 ### Prerequisites:
-- Node.js
-- Python 3.x
+- React.js
+- Python 
 - VS Code
 - Power BI Desktop
 - MS Excel
+- MS word
 
 ### Setup Steps:
 
@@ -487,13 +491,14 @@ A detailed final report is included in the documentation folder covering all asp
 
 ## Acknowledgments
 
-I thank my mentors, faculty, and online learning platforms for supporting this project.
+I thank for online learning platforms for supporting this project and improve my self learning skills and implementation skills 
 
 ---
 
 ## Conclusion
 
-This Sales Performance Analysis and Business Solution System successfully demonstrates how a Business Analyst uses data and technology to solve real business problems. It serves as a complete professional project suitable for academic and career purposes.
+- This E-Sales Performance Analysis and Business Solution System successfully demonstrates how a Business Analyst uses data and technology to solve real business problems.
+- It serves as a complete professional project suitable for academic and career purposes.
 
 ---
 
