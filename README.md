@@ -82,9 +82,8 @@ A Business Analyst (BA) is a professional who identifies business problems and o
 │   └── Final_Project_Report.docx
 │
 ├── README.md
-└── requirements.txt
+└── requirements.txt```
 
----
 
 ---
 
