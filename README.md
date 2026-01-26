@@ -2,9 +2,9 @@
 
 ## Overview
 
--The E-Sales Performance Analysis and Business Solution System is a complete business analyst project designed to analyze sales data, identify business problems, and provide data-driven solutions.
--This project integrates Excel for data storage, Python for analysis, Power BI for visualization, and React for UI, following modern industry standards.
--This project demonstrates how a Business Analyst bridges the gap between business needs and technical implementation using analytics, visualization, and documentation.
+- The E-Sales Performance Analysis and Business Solution System is a complete business analyst project designed to analyze sales data, identify business problems, and provide data-driven solutions.
+- This project integrates Excel for data storage, Python for analysis, Power BI for visualization, and React for UI, following modern industry standards.
+- This project demonstrates how a Business Analyst bridges the gap between business needs and technical implementation using analytics, visualization, and documentation.
 
 ---
 
@@ -96,7 +96,7 @@ A Business Analyst (BA) is a professional who identifies business problems and o
 | Category        | Tools / Technology         |
 |-----------------|-----------------------------|
 Frontend          | React.js                    |
-Backend           | Python                      |
+Analysis           | Python                      |
 Data Source       | MS Excel                    |
 Dashboard         | Power BI                    |
 IDE               | VS Code                     |
