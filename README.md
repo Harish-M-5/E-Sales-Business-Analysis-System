@@ -469,7 +469,10 @@ Sprints:
 
 ## Datas
 
-<img width="1920" height="1080" alt="Screenshot 2026-01-25 214028" src="https://github.com/user-attachments/assets/a54dc1af-181b-4789-98a9-540ec8adfd1e" />
+<img width="1920" height="1080" alt="Screenshot 2026-01-25 214028" src="https://github.com/user-attachments/assets/3daef2c0-a4d8-410c-9dd6-38dc6308abd7" />
+
+
+
 
 ## Power BI Use
 
@@ -479,9 +482,7 @@ Sprints:
 ---
 ## demo video
 
-
-
-https://github.com/user-attachments/assets/3e444f1c-8eb3-477f-a4ad-7cc2ca8eebba
+https://github.com/user-attachments/assets/5bafcb9e-615a-4d73-b1c9-8f635e56290f
 
 ---
 
