@@ -1,0 +1,36 @@
+.sales-container {
+  padding: 30px;
+  background: #0f172a;
+  min-height: 100vh;
+  color: white;
+}
+
+.sales-container h1 {
+  text-align: center;
+  margin-bottom: 20px;
+  color: #38bdf8;
+}
+
+.sales-table {
+  width: 100%;
+  border-collapse: collapse;
+  background: #1e293b;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.sales-table th,
+.sales-table td {
+  padding: 12px;
+  text-align: center;
+  border-bottom: 1px solid #334155;
+}
+
+.sales-table th {
+  background: #0284c7;
+  color: white;
+}
+
+.sales-table tr:hover {
+  background: #334155;
+}
