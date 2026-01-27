@@ -1,9 +1,10 @@
-Date	Product	Region	Units Sold	Revenue	Returns
-2026-01-01	Laptop	Chennai	10	500000	1
-2026-01-02	Mobile	Mumbai	15	300000	0
-2026-01-03	Headphone	Delhi	25	75000	2
-2026-01-04	Tablet	Bangalore	12	180000	1
-2026-01-05	Smartwatch	Hyderabad	8	120000	0
-2026-01-06	Camera	Kolkata	5	90000	0
-2026-01-07	Speaker	Chennai	20	100000	1
-2026-01-08	Mouse	Mumbai	30	45000	0
+| Date       | Product    | Region    | Units Sold | Revenue | Returns |
+| ---------- | ---------- | --------- | ---------- | ------- | ------- |
+| 2026-01-01 | Laptop     | Chennai   | 10         | 500000  | 1       |
+| 2026-01-02 | Mobile     | Mumbai    | 15         | 300000  | 0       |
+| 2026-01-03 | Headphone  | Delhi     | 25         | 75000   | 2       |
+| 2026-01-04 | Tablet     | Bangalore | 12         | 180000  | 1       |
+| 2026-01-05 | Smartwatch | Hyderabad | 8          | 120000  | 0       |
+| 2026-01-06 | Camera     | Kolkata   | 5          | 90000   | 0       |
+| 2026-01-07 | Speaker    | Chennai   | 20         | 100000  | 1       |
+| 2026-01-08 | Mouse      | Mumbai    | 30         | 45000   | 0       |
