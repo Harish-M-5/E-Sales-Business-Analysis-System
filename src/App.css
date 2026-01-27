@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.app-layout {
+  display: flex;
+  min-height: 100vh;
+  background-color: #0f172a;
+}
+
+.app-content {
+  flex: 1;
+  padding: 20px;
+  overflow-x: hidden;
+}
+
+/* Tablet view */
+@media (max-width: 1024px) {
+  .app-layout {
+    flex-direction: column;
+  }
+
+  .app-content {
+    padding: 15px;
+  }
+}
+
+/* Mobile view */
+@media (max-width: 768px) {
+  .app-content {
+    padding: 10px;
+  }
+}
+
+/* Small mobile view */
+@media (max-width: 480px) {
+  .app-content {
+    padding: 8px;
+  }
+}
