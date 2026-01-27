@@ -218,8 +218,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 
 ### The React UI displays:
-- The user interface of this project is developed using React.js, focusing on a clean, responsive, and user-friendly design. The UI is structured with multiple pages such as Home, Dashboard, Documentation, Report, New Business Idea, and Contact, allowing smooth navigation across the application.
-- The Home page is designed like an e-commerce platform, showcasing products such as mobiles, laptops, and headphones with images, prices, and action buttons, giving a real-world shopping experience feel.
+- The user interface of this project is developed using React.js, focusing on a clean, responsive, and user-friendly design. The UI is structured with multiple pages such as Home, Dashboard, Documentation, Report, New Business Idea,Sales Data and Contact, allowing smooth navigation across the application.
+- The Home page is designed like an e-commerce platform, showcasing products such as mobiles, laptops, and headphones with images, prices, and action buttons, giving a real-world shopping  sales Data experience feel.
 The Dashboard page displays interactive charts and visual components that represent sales performance, including revenue trends, product-wise analysis, regional sales, and return rates. These visualizations help users quickly understand business performance and identify problem areas.
 - The Documentation and Report pages provide downloadable and readable project documents like BRD, SRS, Business Solutions, and Final Reports directly within the UI, making the system feel complete and professional.
 The overall UI is styled with modern colors, fonts, and layouts to ensure a visually appealing experience while keeping business clarity in focus. The React-based architecture ensures fast rendering, component reusability, and scalability for future enhancements.
@@ -456,6 +456,9 @@ Sprints:
 <img width="1920" height="1080" alt="Screenshot 2026-01-26 201414" src="https://github.com/user-attachments/assets/78aa616e-e43c-411f-bbd1-972ff73bf384" />
 
 <img width="1920" height="1080" alt="Screenshot 2026-01-26 201422" src="https://github.com/user-attachments/assets/d695c408-842c-4ef6-a77d-8e1e498e7b71" />
+
+<img width="1920" height="1080" alt="Screenshot 2026-01-27 110737" src="https://github.com/user-attachments/assets/cc31361d-cfd3-40c3-9d98-def7e9001b3e" />
+
 
 <img width="1920" height="1080" alt="Screenshot 2026-01-26 201430" src="https://github.com/user-attachments/assets/32a3ac7a-7799-4d62-be21-0c4d0ecd885e" />
 
