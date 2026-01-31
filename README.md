@@ -95,8 +95,7 @@ Analysis           | Python                      |
 Data Source       | MS Excel                    |                    
 IDE               | VS Code                     |
 Project Mgmt      | Jira, Agile                 |
-Documentation     | MS Word                     |
-Visualization     | Power BI       
+Documentation     | MS Word                         
        
 
 ---
