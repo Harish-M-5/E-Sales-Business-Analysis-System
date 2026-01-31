@@ -136,7 +136,7 @@ This project automates sales analysis and provides clear insights and solutions
 
 ---
 
-## UI Dashboard Using React
+## UI Using React
 
 ## Getting Started with Create React App
 
