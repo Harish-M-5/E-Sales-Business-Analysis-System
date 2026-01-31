@@ -3,7 +3,7 @@
 ## Overview
 
 - The E-Sales Performance Analysis and Business Solution System is a complete business analyst project designed to analyze sales data, identify business problems, and provide data-driven solutions.
-- This project integrates Excel for data storage, Python for analysis, Power BI for visualization, and React for UI, following modern industry standards.
+- This project integrates Excel for data storage, Python for analysis and visualization ,React for UI, following modern industry standards.
 - This project demonstrates how a Business Analyst bridges the gap between business needs and technical implementation using analytics, visualization, and documentation.
 
 ---
@@ -13,8 +13,7 @@
 - Upload and process sales data from Excel
 - Analyze revenue and units sold using Python
 - Identify low-performing regions and products
-- Interactive UI dashboard using React
-- Visual insights through Power BI
+- Interactive UI Visual dashboard using React
 - Business solutions based on analysis
 - Agile-based project management
 - Jira-based task tracking
@@ -45,17 +44,16 @@ A Business Analyst (BA) is a professional who identifies business problems and o
 - React.js
 - Python 
 - VS Code
-- Power BI Desktop
 - MS Excel
 - MS word
+- Visualization 
 
 ### Setup Steps:
 
 1. Clone the project
 2. Install frontend dependencies
 3. Run Python analysis
-4. Load Power BI dashboard
-5. Start React UI
+4. Start React UI
 
 ---
 
@@ -73,9 +71,6 @@ A Business Analyst (BA) is a professional who identifies business problems and o
 │
 ├── data/                    → Input Data
 │   └── sales_data.xlsx
-│
-├── dashboard/               → Power BI 
-│   └── sales_dashboard.pbix
 │
 ├── documentation/         
 │   ├── BRD.docx
@@ -97,10 +92,9 @@ A Business Analyst (BA) is a professional who identifies business problems and o
 |-----------------|-----------------------------|
 Frontend          | React.js                    |
 Analysis           | Python                      |
-Data Source       | MS Excel                    |
-Dashboard         | Power BI                    |
+Data Source       | MS Excel                    |                    
 IDE               | VS Code                     |
-Project Mgmt      | Jira, Agile            |
+Project Mgmt      | Jira, Agile                 |
 Documentation     | MS Word                     |
 Visualization     | Power BI       
        
@@ -109,7 +103,7 @@ Visualization     | Power BI
 
 ## Modern Architecture
 
-```Excel Data → Python Analysis → Power BI Dashboard ↓ React UI ↓ Business Solutions & Reports```
+```Excel Data → Python Analysis →↓ React UI ↓ Business Solutions & Reports```
 
 ---
 
@@ -138,7 +132,7 @@ Businesses struggle to understand sales trends and low performance due to:
 - No visualization
 
 ### Solution:
-This project automates sales analysis and provides clear insights and solutions using modern tools.
+This project automates sales analysis and provides clear insights and solutions 
 
 ---
 
@@ -253,18 +247,6 @@ It acts as the primary data source for the project.
 
 ---
 
-## Dashboard Using Power BI
-
-Power BI provides:
-- Revenue by region
-- Product performance
-- Low-performing regions
-- Interactive filters
-- Business-friendly visuals
-
-This helps managers quickly understand business performance.
-
----
 
 ## Documentation
 
@@ -319,7 +301,7 @@ Used to analyze business performance and trends.
 
 ---
 
-## Business Solutions (New Ideas)
+## Business Solutions And New Idea suggestions
 
 - Targeted marketing in weak regions
 - Product bundling
@@ -381,8 +363,7 @@ Sprints:
 
 - Business analysis skills
 - Data analytics using Python
-- Dashboard creation using Power BI
-- Frontend using React
+- UI Dashboard using React
 - Agile and Jira usage
 - Professional documentation
 
@@ -392,9 +373,8 @@ Sprints:
 
 1. Sales data entered in Excel
 2. Python analyzes data
-3. Output sent to Power BI
 4. React UI displays insights
-5. Business solutions generated
+4. Business solutions generated
 
 ---
 
@@ -433,7 +413,6 @@ Sprints:
 - Python 3.x
 - Node.js
 - React 18+
-- Power BI Desktop
 - VS Code
 
 ---
@@ -470,13 +449,6 @@ Sprints:
 ## Datas
 
 <img width="1920" height="1080" alt="Screenshot 2026-01-25 214028" src="https://github.com/user-attachments/assets/3daef2c0-a4d8-410c-9dd6-38dc6308abd7" />
-
-
-
-
-## Power BI Use
-
-<img width="1920" height="1080" alt="Screenshot 2026-01-25 214100" src="https://github.com/user-attachments/assets/0cddba6d-ada8-4a3e-932b-6bfaa09bc67a" />
 
 
 ---
